@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nombre": "Luz",
+            "apellido": "Arcia ",
+            "email": "luzdelciias06@gmail.com",
+            "username": "admin",
+            "password": "12345"
+        },
+
+        {
+            "id": 2,
+            "nombre": "Pepita",
+            "apellido": "Perez ",
+            "email": "soniaspulidoa@gmail.com",
+            "username": "noadmin",
+            "password": "78965"
+        }
+    ]
+}
